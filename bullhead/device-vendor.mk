@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     cneapiclient \
     qcrilhook \
+    com.google.android.camera.experimental2016 \
     rcsimssettings \
     rcsservice
 
