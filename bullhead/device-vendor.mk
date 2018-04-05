@@ -36,7 +36,6 @@ PRODUCT_PACKAGES += \
 # Prebuilt privileged APKs
 PRODUCT_PACKAGES += \
     atfwd \
-    CarrierServices \
     CNEService \
     ConnMO \
     DCMO \
@@ -44,7 +43,6 @@ PRODUCT_PACKAGES += \
     DMConfigUpdate \
     DMService \
     Entitlement \
-    GCS \
     HotwordEnrollmentOKGoogleWCD9330 \
     HotwordEnrollmentTGoogleWCD9330 \
     HotwordEnrollmentXGoogleWCD9330 \
